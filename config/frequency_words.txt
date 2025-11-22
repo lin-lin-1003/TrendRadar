@@ -1,6 +1,5 @@
 华为
 鸿蒙
-HarmonyOS
 
 比亚迪
 王传福
@@ -10,11 +9,6 @@ DJI
 
 宇树
 王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
 
 京东
 刘强东
@@ -46,11 +40,6 @@ sora
 
 claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
